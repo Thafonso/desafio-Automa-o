@@ -36,10 +36,12 @@ desafio_automacao/
 │
 ├── resource/
 │ └── keywords.robot # Palavras-chave reutilizáveis (ações)
-│
+│     keywordsapi.robot
+|
 ├── steps/
 │ └── variables.robot # Variáveis globais (locators e dados)
-│
+│     variablesapi.robot
+|
 ├── .venv/ # Ambiente virtual Python --> para criar digitar no terminal "python3 -m venv .venv" e após criar, digitar ".\.venv\Scripts\activate.ps1" para ativar
 ├── README.md
 

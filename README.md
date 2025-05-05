@@ -21,7 +21,7 @@ Este projeto tem como objetivo automatizar o fluxo de compra no site [Advantage 
 - [Robot Framework](https://robotframework.org/) --> digite no terminal "pip install robotframework-seleniumlibrary" para instalar essa biblioteca
 - [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/)
 - Python 3.13
-- Google Chrome (com chromedriver) --> digite no terminal "pip install chormedriver" para instalar
+- Google Chrome (com chromedriver) --> digite no terminal "pip install chromedriver" para instalar
 - VSCode (recomendado para edição)
 
 ---
